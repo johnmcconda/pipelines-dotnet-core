@@ -2,6 +2,7 @@
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
+[![Build Status](https://john-moser.visualstudio.com/Pipelines_Tutorial/_apis/build/status/johnmcconda.pipelines-dotnet-core)](https://john-moser.visualstudio.com/Pipelines_Tutorial/_build/latest?definitionId=6)
 | Example | Build status |
 |---------|--------------|
 | Build | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=1) |
